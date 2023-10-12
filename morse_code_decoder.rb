@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# Class to Morse Code
 class MorseCodeDecoder
   MORSE_TO_LETTER = {
     '.-' => 'A', '-...' => 'B', '-.-.' => 'C', '-..' => 'D',
